@@ -1,3 +1,10 @@
+#header1{
+    width: 100;
+    height: 300px;
+    background-size: cover;
+    background-image: url(apps-for-apple.gif)
+}
+
 #Body1 {
     height: 100%;
     width: 100%;
